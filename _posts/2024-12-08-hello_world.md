@@ -21,7 +21,7 @@ bundle exec jekyll s
 May the force be with you!
 
 <script src="https://utteranc.es/client.js"
-        repo="saravanankn.github.io"
+        repo="saravanankn/saravanankn.github.io"
         issue-term="pathname"
         theme="github-light"
         crossorigin="anonymous"
