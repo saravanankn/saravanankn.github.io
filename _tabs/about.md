@@ -7,7 +7,7 @@ order: 4
 
 I am an Architect and Speaker (and with this blog, apparently a writer?)
 
-## Speaking Assignments:
+## Speaking Assignments
 
 <table>
   <tr align="center">
