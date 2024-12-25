@@ -11,7 +11,9 @@ I am an Architect and Speaker (and with this blog, apparently a writer?)
 
 🔉 Quarterly Business Review at Rabobank [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7114896865770229760/)
 
-🔉 Elastic Search Amsterdam [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7141110513299550208/)]
+🔉 Quarterly Business Review at Rabobank <a href="https://www.linkedin.com/feed/update/urn:li:activity:7114896865770229760/" target="_blank">LinkedIn Post</a>
+
+🔉 Elastic Search Amsterdam [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7141110513299550208/)
 
 🔉 AppDevCon 2024 Amsterdam [Event Website](https://appdevcon.nl/speaker/saravanan-k-nagarajan/) [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7176178016757125122/)
 
@@ -25,5 +27,5 @@ I am an Architect and Speaker (and with this blog, apparently a writer?)
 
 🔉 I am also leading and hosting Sustainability related community events at
 Rabobank. Due to these initiatives, The Green Software Foundation has
-recognised me as a Green Software Champion - [Link](https://champions.greensoftware.foundation/champions/saravanan-nagarajan/)]
+recognised me as a Green Software Champion - [Link](https://champions.greensoftware.foundation/champions/saravanan-nagarajan/)
 
