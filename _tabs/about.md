@@ -10,8 +10,8 @@ I am an Architect and Speaker (and with this blog, apparently a writer?)
 ## Speaking Assignments:
 
 |                   Event                |            Links         |  
-| :--------: | :---:|  
-| 🔉  Øredev 2024 at Malmö, Sweden       |   <a href="https://oredev.org/line-up?tags=Leadership-MGMT" target="_blank"> Event Website</a>  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7262374030895202304/" target="_blank">LinkedIn Post</a>                        |
+| :--------: | :---:|
+|🔉  Øredev 2024 at Malmö, Sweden|   <a href="https://oredev.org/line-up?tags=Leadership-MGMT" target="_blank"> Event Website</a>  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7262374030895202304/" target="_blank">LinkedIn Post</a>                        |
 
 | 🔉 ReactSummit 2024 | <a href="https://portal.gitnation.org/person/saravanan_nagarajan/" target="_blank">Event Website</a> |
 
@@ -32,7 +32,11 @@ I am an Architect and Speaker (and with this blog, apparently a writer?)
     <th>Event</th>
     <th>Links</th>
   </tr>
-  <tr>
+   <tr>
+    <td> </td>
+    
+  </tr>
+    <tr>
     <td> 🔉  Øredev 2024 at Malmö, Sweden</td>
     <td><a href="https://oredev.org/line-up?tags=Leadership-MGMT" target="_blank"> Event Website</a> |  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7262374030895202304/" target="_blank">LinkedIn Post</a> </td>
   </tr>
